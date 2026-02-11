@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+Step 3:  added by Deniz on 2/4 at 2:14pm
+Step 3:  added by Deniz on 2/4 at 2:14pm
+Step 3:  added by Deniz on 2/4 at 2:14pm
+Step 3:  added by Deniz on 2/4 at 2:14pm
+=======
 file 1 created
+new update
+>>>>>>> 48ff802f2735b8b576bd3f7886ecf5c8a7ebedac
